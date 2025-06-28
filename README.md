@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Asiana Holloway
 
-🎓 Graduate Student in Health Informatics @ Michigan Tech  
+🎓 Graduate Student in Health Informatics at Michigan Tech  
 💡 Passionate about AI in Healthcare | Data-Driven Decision Making | Digital Health Innovation  
 📍 Based in Houston, TX | 6+ years of experience in healthcare operations
 
