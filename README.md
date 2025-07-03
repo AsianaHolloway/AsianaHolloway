@@ -1,14 +1,14 @@
 # 👋🏽 Hi, I'm Asiana Holloway
 
 🎓 Graduate Student in Health Informatics at Michigan Tech  
-💡 Passionate about AI in Healthcare | Data-Driven Decision Making | Digital Health Innovation  
+💡 Passionate about AI in Healthcare | Data-Driven Decision Making | Health Information | Digital Health Innovation 
 📍 Based in Houston, TX | 6+ years of experience in healthcare operations
 
 ---
 
 ## 💼 About Me
 
-I am currently pursuing a Master’s in Health Informatics, with over six years of experience in healthcare operations specializing in clinical decision support and authorization processing. My interests lie in bridging the gap between clinical workflows and emerging technologies particularly AI, healthcare data science, and the Internet of Medical Things (IoMT). 
+I am currently pursuing a Master’s in Health Informatics, with over six years of experience in healthcare operations specializing in Post clinical decision support and authorization processing. My interests lie in bridging the gap between clinical workflows and emerging technologies particularly AI, healthcare data science, and the Internet of Medical Things (IoMT). 
 
 I created this portfolio to showcase the hands-on projects I've completed throughout my graduate coursework, ranging from predictive analytics and medical imaging to cloud-integrated mobile health apps.
 
