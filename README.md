@@ -52,6 +52,16 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 ---
 
+### 🩺 Primary Care Telehealth Visits – Research Collaboration
+**Course:** Introduction to Health Informatics  
+**Tech:** Microsoft Powerpoint Slides, Peer-reviewed Research, Video Presentation  
+- Collaborated with classmates to investigate the use of telehealth in primary care settings  
+- Conducted interviews with healthcare professionals and distributed questionnaires  
+- Analyzed peer-reviewed literature to evaluate telehealth benefits, challenges, and opportunities  
+📄 [View Project Repo](https://github.com/AsianaHolloway/Primary-Care-Telehealth-Visits) | 🎥 [Watch Demo](https://drive.google.com/file/d/19bJ9MkzuE6KfjoG-k-XbTqI1mIFVOP-7/view)
+
+---
+
 ### 🧠 Abnormal ECG Signal Detection Using CNN  
 **Course:** Deep Learning & Medical Imaging  
 **Tech:** PyTorch, CNN, Image Preprocessing  
