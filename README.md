@@ -43,11 +43,11 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 ---
 
-📊 Analyzing Employee Attrition Using Spark and Python
-Course: Big Data Analytics
-Tech: Apache Spark, Python, PySpark
-Performed distributed data analysis to examine employee attrition trends
-Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets
+### 📊 Analyzing Employee Attrition Using Spark and Python
+**Course:** Intro to Big Data Analytics
+**Tech:** Apache Spark, Python, PySpark
+- Performed distributed data analysis to examine employee attrition trends
+- Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets
 📄 View Project Repo
 
 ---
