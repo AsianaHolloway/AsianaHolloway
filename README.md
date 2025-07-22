@@ -30,7 +30,7 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 **Tech:** Flutter, AWS Lambda, DynamoDB, Fitbit API  
 - Developed a full-stack mobile app for real-time stress tracking using wearable data  
 - Includes user check-in system, backend cloud functions, and secure data storage  
-[📂 View Project Repo](https://github.com/AsianaHolloway/WellnessWave-IoMT-Project) | [🎥 Watch Demo]([https://drive.google.com/file/d/1zE1TYC3qM41gIN1S6O0PYKb-0nfNWc81/view?usp=drive_link])
+📄 [View Project Repo](https://github.com/AsianaHolloway/WellnessWave-IoMT-Project) | 🎥 [Watch Demo](https://drive.google.com/file/d/1zE1TYC3qM41gIN1S6O0PYKb-0nfNWc81/view?usp=drive_link)
 
 ---
 
@@ -47,8 +47,7 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 **Course:** Intro to Big Data Analytics
 **Tech:** Apache Spark, Python, PySpark
 - Performed distributed data analysis to examine employee attrition trends
-- Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets
-  
+- Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets  
 [📄 View Project Repo](https://github.com/AsianaHolloway/Analyzing-Employee-Attrition-Using-Spark-and-Python) 
 
 ---
