@@ -54,11 +54,10 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 ## 🌐 Connect with Me
 
-- 📫 Email: [your.email@domain.com]
+- 📫 Email: [holloway.asiana@gmail.com]
 - 🧠 LinkedIn: [linkedin.com/in/asiana-holloway](https://linkedin.com/in/asiana-holloway)
 - 💼 Resume: [Google Drive or PDF Link]
-- 🌟 Fun Fact: I’m also building a soft girl luxury Pilates studio in Houston!
-
+  
 ---
 
 > _"Technology will not replace healthcare workers — but those who use technology effectively will."_
