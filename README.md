@@ -48,7 +48,7 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 **Tech:** Apache Spark, Python, PySpark
 - Performed distributed data analysis to examine employee attrition trends
 - Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets
-📄 View Project Repo
+[📄 View Project Repo](https://github.com/AsianaHolloway/Analyzing-Employee-Attrition-Using-Spark-and-Python) 
 
 ---
 
