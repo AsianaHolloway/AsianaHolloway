@@ -35,7 +35,7 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 ---
 
 ### 📊 Predicting Heart Disease Risk – ML Classifier Models  
-**Course:** Machine Learning in Healthcare  
+**Course:** AI Learning in Healthcare  
 **Tech:** Logistic Regression, Decision Trees, SVM, Python, Colab  
 - Built and compared multiple models to predict heart disease based on patient data  
 - Measured accuracy, AUC, and precision to find best model  
@@ -44,8 +44,8 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 ---
 
 ### 📊 Analyzing Employee Attrition Using Spark and Python
-**Course:** Machine Learning in Healthcare  
-**Tech:** Logistic Regression, Decision Trees, SVM, Python, Colab
+**Course:** Big Data Analytics  
+**Tech:** Apache Spark, Python, PySpark
 - Performed distributed data analysis to examine employee attrition trends
 - Compared single-node vs dual-node VM performance for cleaning and analyzing large datasets  
 [📄 View Project Repo](https://github.com/AsianaHolloway/Analyzing-Employee-Attrition-Using-Spark-and-Python) 
