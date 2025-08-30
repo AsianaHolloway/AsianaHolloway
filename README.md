@@ -62,12 +62,13 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 ---
 
-### 🧠 Abnormal ECG Signal Detection Using CNN  
-**Course:** Deep Learning & Medical Imaging  
-**Tech:** PyTorch, CNN, Image Preprocessing  
-- Created a convolutional neural network to classify ECG signal abnormalities  
-- Used dropout layers, activation functions, and training/validation metrics  
-[📂 View Project Repo](https://github.com/AsianaHolloway/ECG-CNN-PyTorch)
+### 🧠 Medical Digital Image Preprocessing and Segmentation   
+**Course:** AI in Healthcare  
+**Tech:** Python, OpenCV, scikit-image, NumPy, Matplotlib, Google Colab  
+- Implemented grayscale conversion, min–max normalization, and thresholding segmentation on medical images  
+- Enhanced image contrast and isolated regions of interest to support tumor detection tasks
+- Evaluated image quality and segmentation results for potential use in AI model training  
+[📂 View Project Repo](https://github.com/AsianaHolloway/Medical-Digital-Image-Preprocessing-and-Segmentation/tree/main)
 
 ---
 
