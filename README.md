@@ -72,6 +72,15 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 ---
 
+### 🩺 Low-Level Differential Diagnostic System  
+**Course:** Clinical Decision Support & AI Modeling  
+**Tech:** Python, SQLAlchemy, SQLite, Jupyter Notebook  
+- Implemented a rule-based system using a JSON symptom database  
+- Designed SQL tables and mappings for symptoms and conditions  
+- Built scoring algorithm using **Frequency × Evoking Strength** to rank top diagnoses  
+📄 [View Project Repo](https://github.com/AsianaHolloway/AssignmentDifferentialDiagnostics) | 🚀 [Open in Colab](https://colab.research.google.com/drive/14TbVTay7ZD6goFgVMLMXr5zvRke5NC3y?usp=sharing)  
+
+
 ## 🌐 Connect with Me
 
 - 📫 Email: [holloway.asiana@gmail.com]
