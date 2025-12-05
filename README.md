@@ -85,7 +85,7 @@ I created this portfolio to showcase the hands-on projects I've completed throug
 
 - 📫 Email: [holloway.asiana@gmail.com]
 - 🧠 LinkedIn: [linkedin.com/in/asiana-holloway](https://linkedin.com/in/asiana-holloway)
-- 💼 Resume: [Google Drive or PDF Link](https://drive.google.com/file/d/1zNIQtK0He9SSOOBdnFvuaPo1zSnMRYnR/view?usp=drive_link)
+- 💼 Resume: [Resume Link](https://drive.google.com/file/d/1zNIQtK0He9SSOOBdnFvuaPo1zSnMRYnR/view?usp=drive_link)
   
 ---
 
